@@ -2,8 +2,9 @@
 *.o
 
 # Libraries
-*.lib
 *.a
+*.eep
+*.map
 
 # Shared objects (inc. Windows DLLs)
 *.dll
